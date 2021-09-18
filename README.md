@@ -27,7 +27,7 @@ log files in JSON format.
 ### Format: 
 ![LogData](https://video.udacity-data.com/topher/2019/February/5c6c15e9_log-data/log-data.png)
  
-![Schema for Songplay Analysis](/Users/oxana_malyshkina/PycharmProjects/Data Engineering Udacity/sparkifydb_erd.png)
+![Schema for Songplay Analysis](https://github.com/OxyMal/Data-Engineering-Udacity/blob/main/sparkifydb_erd.png)
 
 ## RESULTS
 In **test.ipynb** the following results can be seen:
